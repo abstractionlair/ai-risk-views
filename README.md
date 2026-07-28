@@ -1,4 +1,6 @@
-# Introduction
+# My AI Risk Trajectory
+
+## Introduction
 
 I wanted to see how my views on AI safety had changed over time, or just how what I was paying attention to changed in cases where my views haven't settled. As described here, https://github.com/abstractionlair/corpus-analysis-scaffolding, the corpus of my conversations with AI models captures a few years of that history so I had Claude extract the parts relevant to safety. I then pared that down to the subset below. I'm happy to say that I'm not surprised by anything. There isn't, for instance, anything that made me think "What, I wrote that???".
 
@@ -10,7 +12,7 @@ One concern I have is that, presented as a list of quotes with minimal context, 
 
 One reason that these positions are _not_ that strongly held is that this is from reading and using models for research and critique but I haven't had a chance to discuss these with any humans. (Well, beyond a trivial amount.) As much as I try to mitigate bias, anchoring, and sycophancy, and use multiple models to (attempt to) cover a wider spectrum of views, that's not a substitute for engaging with other people who themselves are deeply engaged with these topics.
 
-# Selections from Corpus Mining Performed by Claude
+## Selections from Corpus Mining Performed by Claude
 
 In this section, what's quoted are my words, italicized writing is Claude providing context where quotes wouldn't have worked well, and in a few places I interject comments between brackets. Note that I have corrected typos.
 
